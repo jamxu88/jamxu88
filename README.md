@@ -1,7 +1,5 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I'm James Xu, a self-taught full-stack developer from the United States. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/) <br>
-
-📈 My GitHub Stats
+#### I'm James Xu, a 16 year old self-taught full-stack developer from the United States. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I prefer working on NodeJS backend. I'm currently learning Java, Go, and C#.<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
 <!--
