@@ -1,5 +1,5 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I'm James Xu, a self-taught full-stack developer.
+#### I'm James Xu, a self-taught full-stack developer from the United States. I freelance develop and own [Fuchsia Tools](https://fuchsia.tools/)
 <a href="https://twitter.com/jamxu_">
   <img align="left" alt="James Xu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
