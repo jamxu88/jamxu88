@@ -10,7 +10,9 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br>
-![jamxu88's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham)
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
 <!--
 **jamxu88/jamxu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
