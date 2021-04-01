@@ -1,6 +1,6 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### I'm James Xu, a self-taught full-stack developer from the United States. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/) <br>
-I am proficient in JavaScript  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="jamxu88" />
+I am proficient in JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="jamxu88" height="40" />
 <a href="https://twitter.com/jamxu_">
   <img align="left" alt="James Xu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
