@@ -2,10 +2,8 @@
 #### I'm James Xu, a 16 year old self-taught full-stack developer from the United States. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I prefer working on NodeJS backend. I'm currently learning Java, Go, and C#.<br>
 
 ### Experience<br>
-- Full-Stack Developer @ Fuchsia Tools
-- Full-Stack Developer @ TechOne LLC
-- Backend Devloper @ Waifu Tools
-- Backend Developer @ Okura
+- Full-Stack Developer & CEO @ Fuchsia Tools
+- Full-Stack Developer & Product Manager @ TechOne LLC
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
