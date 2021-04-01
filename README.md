@@ -4,6 +4,7 @@
 ### Experience<br>
 - Full-Stack Developer & CEO @ Fuchsia Tools
 - Full-Stack Developer & Product Manager @ TechOne LLC
+- Freelance Developer @ Okura, Waifu Tools
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
