@@ -1,7 +1,5 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### I'm James Xu, a self-taught full-stack developer from the United States. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/) <br>
-My Proficient Languages: <br> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"  alt="jamxu88" height="30"/><img src="https://cpng.pikpng.com/pngl/s/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" alt="jamxu88" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="jamxu88" height="30"/><img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" alt="jamxu88" height="30"/>
 <br>
 <a href="https://twitter.com/jamxu_">
   <img align="left" alt="James Xu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -12,6 +10,9 @@ My Proficient Languages: <br>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+My Proficient Languages: <br> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"  alt="jamxu88" height="30"/><img src="https://cpng.pikpng.com/pngl/s/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" alt="jamxu88" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="jamxu88" height="30"/><img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" alt="jamxu88" height="30"/>
+
 <br>
 📈 My GitHub Stats
 
