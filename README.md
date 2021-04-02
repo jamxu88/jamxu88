@@ -2,8 +2,8 @@
 #### I'm James, a 16 year old self-taught full-stack developer from the United States. I have been coding for 8 years now. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I prefer working on NodeJS backend. I'm currently learning Java, Go, and C#.<br>
 
 ### Experience<br>
-- Full-Stack Developer & CEO @ Fuchsia Tools
-- Full-Stack Developer & Product Manager @ TechOne LLC
+- Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
+- Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Developer @ Okura, Waifu Tools
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 
