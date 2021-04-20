@@ -1,5 +1,7 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### I'm James, a 16 year old self-taught full-stack web developer from the United States. I have been coding for 8 years now. I freelance develop for multiple companies and own [Fuchsia Tools](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I prefer working on NodeJS backend. I'm currently learning Java, Go, and C#.<br>
+[My website](https://jamesxu.dev/)
+
 
 ### Experience<br>
 - Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
