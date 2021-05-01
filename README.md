@@ -10,6 +10,8 @@
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
+![](https://api.ghprofile.me/view?username=jamxu88&color=purple)
+
 <!--
 **jamxu88/jamxu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
