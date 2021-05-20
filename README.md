@@ -12,7 +12,9 @@
 ### Skillset<br>
 - Javascript
 - HTML & CSS
-- Python, Java
+- Python
+- Java
+- Project Organization
 - General IT Skills
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham" alt="jamxu88" />
