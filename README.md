@@ -8,6 +8,7 @@
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Developer @ Okura, Waifu Tools, Infinite
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
+- ["People's Choice Aware"](https://devpost.com/software/protego-14ei2b) @ Teenhacks Spring 2021
 
 ### Skillset<br>
 - Javascript
