@@ -6,7 +6,7 @@
 ### Experience<br>
 - Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
-- Freelance Developer @ [OkuraIO](https://okura.io/)
+- Freelance Developer @ OkuraIO
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
 
