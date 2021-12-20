@@ -1,5 +1,5 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I'm James, a 16 year old self-taught full-stack web developer from the DC area. I have been coding for over 8 years now. I freelance develop for multiple companies and clients, and I own [Fuchsia](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on being a full-time student instead of working.<br>
+#### I'm James, a 17 year old self-taught full-stack web developer from the DC area. I have been coding for over 8 years now. I freelance develop for multiple companies and clients, and I own [Fuchsia](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on being a full-time student instead of working.<br>
 [My website](https://jamesxu.dev/)
 <br>
 [Devpost](https://devpost.com/jamxu88/)
