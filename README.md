@@ -6,7 +6,7 @@
 <br>
 [Devpost Portfolio](https://devpost.com/jamxu88/)
 <br>
-[Linkedin](www.linkedin.com/in/xu-james)
+[LinkedIn](www.linkedin.com/in/xu-james)
 <br>
 📫 james@jamesxu.dev
 
