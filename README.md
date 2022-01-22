@@ -1,10 +1,16 @@
 ### Heyo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I'm James, a 17 year old full-stack web developer from the DC area. I have been coding for over 8 years now. I freelance develop for multiple companies and clients, and I own [Fuchsia](https://fuchsia.tools/). I'm proficient in JavaScript, Python, HTML, CSS, and Java. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on being a full-time student instead of working.<br>
+#### I'm James, a 17 year old full-stack web developer from the DC area. I freelance develop for multiple companies and clients. I would describe myself as a proficient web developer, with skills in Javascript/Nodejs and their libraries, HTML/CSS, as well as familiarity with Python. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on being a full-time student.
+
+## Links 📡
 [My website](https://jamesxu.dev/)
 <br>
-[Devpost](https://devpost.com/jamxu88/)
+[Devpost Portfolio](https://devpost.com/jamxu88/)
+<br>
+[Linkedin](www.linkedin.com/in/xu-james)
+<br>
+📫 james@jamesxu.dev
 
-## Interests
+## Interests 🎓
 - Web Apps/Web Development
 - Blockchain technology & Web3
 - Fintech
@@ -13,14 +19,14 @@
 - Cybersecuirty
 - Automation and Bots
 
-### Experience
+### Experience ⚡
 - Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
 
-### Skillset
+### Skillset 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -33,9 +39,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamxu88&show_icons=true&theme=gotham&include_all_commits=true" alt="jamxu88" />
-
+<br>
+<em>Experimental ambition is what drives great ideas to succeed</em>
 
 <!--
 **jamxu88/jamxu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
