@@ -4,14 +4,23 @@
 <br>
 [Devpost](https://devpost.com/jamxu88/)
 
-### Experience<br>
+## Interests
+- Web Apps/Web Development
+- Blockchain technology & Web3
+- Fintech
+- Machine Learning/AI
+- E-Commerce
+- Cybersecuirty
+- Automation and Bots
+
+### Experience
 - Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
 
-### Skillset<br>
+### Skillset
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
