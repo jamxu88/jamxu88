@@ -8,7 +8,7 @@
 <br>
 [Medium](https://medium.com/@jamxu88)
 <br>
-[LinkedIn](www.linkedin.com/in/xu-james)
+[LinkedIn](https://linkedin.com/in/xu-james)
 <br>
 📫 james@jamesxu.dev
 
