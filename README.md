@@ -4,9 +4,9 @@
 ## Links 📡
 [My website](https://jamesxu.dev/)
 <br>
-[Devpost Portfolio](https://devpost.com/jamxu88/)
-<br>
 [Medium](https://medium.com/@jamxu88)
+<br>
+[Devpost Portfolio](https://devpost.com/jamxu88/)
 <br>
 [LinkedIn](https://linkedin.com/in/xu-james)
 <br>
