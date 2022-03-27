@@ -22,7 +22,7 @@
 - Automation and Bots
 
 ### Experience ⚡
-- Full-Stack Developer & CEO @ [Fuchsia Tools](https://fuchsia.tools/)
+- Full-Stack Developer & CEO @ [Iceburg](https://iceburg.app/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
