@@ -25,9 +25,10 @@
 - Full-Stack Developer & CEO @ [Iceburg](https://iceburg.app/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
+- ["Best Use of Google Cloud"](https://devpost.com/software/getin-vc) @ Hoohacks 2022
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
-- ["Best Use of Google Cloud"](https://devpost.com/software/getin-vc) @ Hoohacks 2022
+
 
 ### Skillset 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
