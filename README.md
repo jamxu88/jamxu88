@@ -14,6 +14,7 @@
 
 ## Interests 🎓
 - Web Apps/Web Development
+- Data Science
 - Blockchain technology & Web3
 - Fintech
 - Machine Learning/AI
@@ -22,14 +23,17 @@
 - Automation and Bots
 
 ### Experience ⚡
+- Summer ML/AI Intern @ [SoKat](https://sokat.co/)
 - Full-Stack Developer & CEO @ [Iceburg](https://iceburg.app/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
-### Award Winning Projects 📦
+### Award Winning and Other Cool Projects 📦
 - ["Best Use of Google Cloud"](https://devpost.com/software/getin-vc) @ Hoohacks 2022
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
+- [MusePay](https://devpost.com/software/muse-pay) @ BitCamp 2022
+- [MCPS COVID-19 Dashboard](https://mcpscovid.co/)
 
 
 ### Skillset 🛠️
