@@ -1,5 +1,5 @@
 ### Heyo!
-#### I'm James, a full-stack web developer from the DC area. I freelance develop for multiple companies and clients. I would describe myself as a proficient web developer, with skills in Javascript/Nodejs and their libraries, HTML/CSS, as well as familiarity with Python. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on being a full-time student.
+#### I'm James, a full-stack web developer from the DC area. I freelance develop for multiple companies and clients. I would describe myself as a proficient web developer, with skills in Javascript/Nodejs and their libraries, HTML/CSS, as well as familiarity with Python. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on exploring my creative skills and improving my technical ones, especially in Go!
 
 ## Links 📡
 [My website](https://jamesxu.dev/)
@@ -38,6 +38,7 @@
 
 ### Skillset 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
