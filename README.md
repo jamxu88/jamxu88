@@ -29,6 +29,7 @@
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
 ### Award Winning and Other Cool Projects 📦
+- [Vitalize.js](https://www.npmjs.com/package/vitalize.js)
 - ["Best Use of Google Cloud"](https://devpost.com/software/getin-vc) @ Hoohacks 2022
 - ["Most Technically Impressive Hack"](https://devpost.com/software/movie-night-ivtqjn) @ MocoHacks 2021
 - ["People's Choice Award"](https://devpost.com/software/protego-14ei2b) @ TeenhacksLI Spring 2021
@@ -49,6 +50,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 <br>
 <em>Experimental ambition is what drives great ideas to succeed</em>
