@@ -24,7 +24,7 @@
 
 ### Experience ⚡
 - Summer ML/AI Intern @ [SoKat](https://sokat.co/)
-- Full-Stack Developer & CEO @ [Waffle](https://waffle.dev/) (Formerly Fuchsia)
+- Researcher & CEO @ [Prism Research](https://prismresearch.io/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
