@@ -1,5 +1,5 @@
 ### Heyo!
-#### I'm James, a full-stack web developer from the DC area. I freelance develop for multiple companies and clients. I would describe myself as a proficient web developer, with skills in Javascript/Nodejs and their libraries, HTML/CSS, as well as familiarity with Python. I'm always constantly learning and trying to expand my knowledge, as well as searching for opportunities to do so. Right now, I'm focusing on exploring my creative skills and improving my technical ones, especially in Go!
+#### I'm James, a full-stack developer from the DC area. I will be attending the University of Illinois Urbana-Champaign this fall for computer science. Right now, I'm focused on freelancing and learning more especially in AI/ML and modeling. I'm open to freelance jobs for designing and web development, so feel free to email me!
 
 ## Links 📡
 [My website](https://jamesxu.dev/)
