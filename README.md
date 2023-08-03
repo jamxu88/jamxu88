@@ -1,5 +1,5 @@
 ### Heyo!
-#### I'm James, a full-stack developer from the DC area. I will be attending the University of Illinois Urbana-Champaign this fall for computer science. Right now, I'm focused on freelancing and learning more especially in AI/ML and modeling. I'm open to freelance jobs for designing and web development, so feel free to email me!
+#### I'm James, a full-stack developer from the DC area. I will be attending the University of Illinois Urbana-Champaign this fall for computer science. Right now, I'm focused on freelancing and learning more especially in AI/ML and modeling.
 
 ## Links 📡
 [My website](https://jamesxu.dev/)
