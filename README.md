@@ -23,9 +23,8 @@
 - Automation and Bots
 
 ### Experience ⚡
-- Frontend Designer @ AIQue
+- Frontend Designer @ AIQue Labs
 - Summer ML/AI Intern @ [SoKat](https://sokat.co/)
-- Researcher & CEO @ [Prism Research](https://prismresearch.io/)
 - Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
