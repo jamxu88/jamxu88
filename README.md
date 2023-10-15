@@ -23,9 +23,10 @@
 - Automation and Bots
 
 ### Experience ⚡
+- Quantitative Trader @ [Quant Illinois](https://www.quantillinois.com/)
 - Frontend Designer @ AIQue Labs
-- Summer ML/AI Intern @ [SoKat](https://sokat.co/)
-- Full-Stack Developer & Product Manager @ [TechOne LLC](http://techone.dev/)
+- ML/AI Engineer Intern @ [SoKat](https://sokat.co/)
+- Full-Stack Developer & Product Manager @ Fuchsia
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
 ### Award Winning and Other Cool Projects 📦
