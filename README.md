@@ -25,7 +25,7 @@
 ### Experience ⚡
 - Quantitative Trader @ [Quant Illinois](https://www.quantillinois.com/)
 - Frontend Designer @ AIQue Labs
-- ML/AI Engineer Intern @ [SoKat](https://sokat.co/)
+- ML/AI Engineer Intern @ [SoKat](https://sokat.com/)
 - Full-Stack Developer & Product Manager @ Fuchsia
 - Freelance Development @ OkuraIO, InfiniteIO, & WaifuTools
 
