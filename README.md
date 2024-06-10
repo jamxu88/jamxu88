@@ -23,6 +23,7 @@
 - Automation and Bots
 
 ### Experience ⚡
+- SWE Intern @ [Stackline](https://www.stackline.com/)
 - Quantitative Trader @ [Quant Illinois](https://www.quantillinois.com/)
 - Frontend Designer @ AIQue Labs
 - ML/AI Engineer Intern @ [SoKat](https://sokat.com/)
