@@ -11,6 +11,7 @@
 [LinkedIn](https://linkedin.com/in/xu-james)
 <br>
 [Figma Design Portfolio](https://www.figma.com/design/cJSc6MKRKyexAvAG0Rgohy/Playground)
+<br>
 📫 james [at] jamesxu.dev or jamesxu2 [at] illinois.edu
 
 ## Interests 🎓
